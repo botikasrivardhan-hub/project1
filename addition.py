@@ -13,8 +13,10 @@ if __name__ == "__main__":
     # Print as int if both inputs were integers (optional)
     if result.is_integer():
         print(int(result))
-    else:
+    else: 
         print(result)
+
+
 
 
 

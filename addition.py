@@ -4,7 +4,8 @@ def add_two_numbers(a, b):
 
 
 if __name__ == "__main__":
-    # Read two numbers from user input
+   
+    # Read two numbers from user input given from console
     a = float(input("Enter first number: "))
     b = float(input("Enter second number: "))
 
@@ -14,4 +15,6 @@ if __name__ == "__main__":
         print(int(result))
     else:
         print(result)
+
+
 
